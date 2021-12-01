@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/#dcdcdc?style=plastic&logo=appveyor?&logoColor=#ffe4e1"/></a>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
 - 
 {
   "schemaVersion": 1,
