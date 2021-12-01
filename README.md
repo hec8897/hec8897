@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img src="https://img.shields.io/badge/Vue-3DDC84?style=flat-square&logo=Vue&logoColor=white"/>
-
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue&logoColor=white"/></a>
 - 
 {
   "schemaVersion": 1,
