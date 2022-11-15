@@ -9,9 +9,6 @@ Skill :
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
-# 포트폴리오
-
-[notion](https://uncovered-wolverine-cd5.notion.site/14a6f8404f6a45f98366aa2ed63d3dd0)
 
 # 블로그
 
