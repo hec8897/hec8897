@@ -1,5 +1,5 @@
 
-✨ FrontEnd Developer Dawoon Kim ✨
+# ✨ FrontEnd Developer Dawoon Kim ✨
 사용자 중심으로 생각하고, 팀과 함께 완성도 높은 제품을 만드는 프론트엔드 개발자입니다.
 
 ## Tech Stack
@@ -15,9 +15,10 @@
 ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-## 블로그
+## About
 
 [![Blog](https://img.shields.io/badge/Blog-FF6B6B?style=flat-square&logo=home&logoColor=white)](https://hec8897.github.io/blog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%8B%A4%EC%9A%B4-%EA%B9%80-467114227/)
 <!---
 hec8897/hec8897 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
