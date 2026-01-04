@@ -14,7 +14,7 @@
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=react&logoColor=white)
 ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=flat-square&logo=redux&logoColor=white)
-
+![Cursor](https://img.shields.io/badge/Cursor-00D084?style=flat-square&logo=cursor&logoColor=white)
 ## About
 
 [![Blog](https://img.shields.io/badge/Blog-FF6B6B?style=flat-square&logo=home&logoColor=white)](https://hec8897.github.io/blog)
